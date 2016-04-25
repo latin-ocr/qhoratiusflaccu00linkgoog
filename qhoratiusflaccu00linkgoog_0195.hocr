@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiusflaccu00linkgoog_0195.png"; bbox 0 0 2459 3959; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 488 1567 1895 1875">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 488 1567 1895 1875">
+     <span class='ocr_line' id='line_1_1' title="bbox 713 1567 1692 1661; baseline 0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 713 1567 796 1661; x_wconf 82' lang='lat' dir='ltr'><strong>Q.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 849 1569 1235 1646; x_wconf 82' lang='lat' dir='ltr'><strong>HORATI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1304 1568 1692 1649; x_wconf 77' lang='lat' dir='ltr'>FLACCI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 488 1765 1895 1875; baseline -0.001 -3"><span class='ocrx_word' id='word_1_4' title='bbox 488 1765 563 1872; x_wconf 79' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 632 1771 733 1870; x_wconf 92' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_6' title='bbox 808 1771 896 1871; x_wconf 88' lang='grc' dir='ltr'><strong>Τ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 964 1770 1026 1872; x_wconf 95' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_8' title='bbox 1093 1772 1193 1874; x_wconf 89' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_9' title='bbox 1263 1773 1364 1872; x_wconf 92' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 1434 1773 1534 1875; x_wconf 89' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_11' title='bbox 1603 1771 1711 1874; x_wconf 89' lang='lat' dir='ltr'>V</span> <span class='ocrx_word' id='word_1_12' title='bbox 1778 1771 1895 1871; x_wconf 91' lang='lat' dir='ltr'>M</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 916 2007 1453 2064">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 916 2007 1453 2064">
+     <span class='ocr_line' id='line_1_3' title="bbox 916 2007 1453 2064; baseline -0.004 0"><span class='ocrx_word' id='word_1_13' title='bbox 916 2008 1128 2064; x_wconf 84' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_14' title='bbox 1171 2007 1202 2063; x_wconf 95' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_15' title='bbox 1244 2009 1347 2064; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1392 2008 1453 2064; x_wconf 95' lang='lat' dir='ltr'><strong>II</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1035 2215 1343 2224">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1035 2215 1343 2224">
+     <span class='ocr_line' id='line_1_4' title="bbox 1035 2215 1343 2224; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 1035 2215 1343 2224; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
